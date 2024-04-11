@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Qianglong Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. from Zhejiang University, focus on reasoning and planning of LLM, World Model"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4-NfQ9YAAAAJ"
   email            : "chenqianglong.ai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
